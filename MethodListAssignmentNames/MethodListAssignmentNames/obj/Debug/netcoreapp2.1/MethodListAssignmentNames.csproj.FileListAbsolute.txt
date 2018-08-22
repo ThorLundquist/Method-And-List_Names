@@ -1,0 +1,11 @@
+C:\Users\Lundqvist\source\repos\H1\Grundlæggende Programmering\MethodListAssignmentNames\MethodListAssignmentNames\bin\Debug\netcoreapp2.1\MethodListAssignmentNames.deps.json
+C:\Users\Lundqvist\source\repos\H1\Grundlæggende Programmering\MethodListAssignmentNames\MethodListAssignmentNames\bin\Debug\netcoreapp2.1\MethodListAssignmentNames.runtimeconfig.json
+C:\Users\Lundqvist\source\repos\H1\Grundlæggende Programmering\MethodListAssignmentNames\MethodListAssignmentNames\bin\Debug\netcoreapp2.1\MethodListAssignmentNames.runtimeconfig.dev.json
+C:\Users\Lundqvist\source\repos\H1\Grundlæggende Programmering\MethodListAssignmentNames\MethodListAssignmentNames\bin\Debug\netcoreapp2.1\MethodListAssignmentNames.dll
+C:\Users\Lundqvist\source\repos\H1\Grundlæggende Programmering\MethodListAssignmentNames\MethodListAssignmentNames\bin\Debug\netcoreapp2.1\MethodListAssignmentNames.pdb
+C:\Users\Lundqvist\source\repos\H1\Grundlæggende Programmering\MethodListAssignmentNames\MethodListAssignmentNames\obj\Debug\netcoreapp2.1\MethodListAssignmentNames.csprojAssemblyReference.cache
+C:\Users\Lundqvist\source\repos\H1\Grundlæggende Programmering\MethodListAssignmentNames\MethodListAssignmentNames\obj\Debug\netcoreapp2.1\MethodListAssignmentNames.csproj.CoreCompileInputs.cache
+C:\Users\Lundqvist\source\repos\H1\Grundlæggende Programmering\MethodListAssignmentNames\MethodListAssignmentNames\obj\Debug\netcoreapp2.1\MethodListAssignmentNames.AssemblyInfoInputs.cache
+C:\Users\Lundqvist\source\repos\H1\Grundlæggende Programmering\MethodListAssignmentNames\MethodListAssignmentNames\obj\Debug\netcoreapp2.1\MethodListAssignmentNames.AssemblyInfo.cs
+C:\Users\Lundqvist\source\repos\H1\Grundlæggende Programmering\MethodListAssignmentNames\MethodListAssignmentNames\obj\Debug\netcoreapp2.1\MethodListAssignmentNames.dll
+C:\Users\Lundqvist\source\repos\H1\Grundlæggende Programmering\MethodListAssignmentNames\MethodListAssignmentNames\obj\Debug\netcoreapp2.1\MethodListAssignmentNames.pdb
